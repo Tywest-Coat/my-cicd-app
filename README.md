@@ -4,7 +4,7 @@ A production-grade CI/CD pipeline that automatically tests, builds, and deploys 
 
 ## Architecture
 
-[placeholder for architecture diagram - add diagram.png once created]
+![Alt text](./my-cicd-app200.drawio.png)
 
 ## Pipeline Flow
 
